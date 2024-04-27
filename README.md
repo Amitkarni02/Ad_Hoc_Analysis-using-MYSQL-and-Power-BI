@@ -1,1 +1,4 @@
-# Ad_Hoc_Analysis-using-MYSQL-and-Power-BI
+Ad-Hoc Analysis in The Consumer Goods Industry
+
+
+
