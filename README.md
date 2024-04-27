@@ -4,6 +4,9 @@ Ad-Hoc Analysis in The Consumer Goods Industry
 
 ![221028962-5b3e418a-e176-4f2e-94a0-ae2f2b99da6c](https://github.com/Amitkarni02/Ad_Hoc_Analysis-using-MYSQL-and-Power-BI/assets/149171781/b1119c02-4f31-4037-8689-6b4caa279aa8)
 
+![221028897-503f5d56-710d-4e16-819e-35f607e65d67](https://github.com/Amitkarni02/Ad_Hoc_Analysis-using-MYSQL-and-Power-BI/assets/149171781/f31f1167-7fcb-4587-b459-1f24e34247ed)
+
+
 
 
 
